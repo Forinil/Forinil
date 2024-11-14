@@ -1,4 +1,4 @@
-Hi, I'm @Forinil. I'm a Java programmer.
+Hi, I'm @Forinil. I'm a DevOps and a programmer.
 
 
 
